@@ -2,6 +2,8 @@
 # desc: 단순 연결 리스트 학습
 
 memory = [] # 컴퓨터 메모리를 유사 구성
+# head , curr, prev 일반 변수
+# head = node
 head, curr, prev = None, None, None
 
 class Node():
@@ -26,7 +28,7 @@ dataArray = ['가현', '나현','다현', '라연', '마현']
 
 # 메인시작
 if __name__ == '__main__':
-    node = Node(dataArray[0])
+    node = Node(dataArray[0]) # '가현' 이라는 데이터를 담은 노드 생성
     head = node # 첫번째 값을 head 가 가리킴
     memory.append(node) # 가짜 메모리에 집어 넣음
 
