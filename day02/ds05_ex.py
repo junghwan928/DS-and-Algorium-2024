@@ -1,11 +1,11 @@
 ## 함수 선언
 
 def printPoly(p_x):
-    term = len(p_x) - 1
+    term = len(p_x) - 1 # 최고지차항 숫자 = 배열 - 1
     polyStr = "P(x) = "
 
     for i in range(len(px)):
-        coef = p_x[i]
+        coef = p_x[i] # 계수
 
     if (coef >= 0):
         polyStr += "+"
@@ -25,6 +25,7 @@ def calcPoly(xVal, p_x):
 
     return retValue
 
+## 전역 변수 선언부분
 px = [7, -4, 0, 5]
 
 if __name__ == '__main__':
