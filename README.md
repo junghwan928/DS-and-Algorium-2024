@@ -17,7 +17,9 @@
     - 원형 연결 리스트 PASS : 마지막 노드가 첫 노드와 연결
     - 스택 : Last In First Out(LIFO)
         - pop => list.pop()
+        ![stack](https://cs.lmu.edu/~ray/images/stack.gif)
         - push => list.apped()
+        ![queue](https://upload.wikimedia.org/wikipedia/commons/6/6d/QUEUE.png)
     - 큐 : First In First Out(FIFO)
     - 트리
     - 그래프
