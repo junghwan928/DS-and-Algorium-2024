@@ -28,12 +28,12 @@
 -  Python 자료구조
     - 큐 다시 
     - 이진트리
-    
     ![이진트리](https://kahee.github.io//assets/post_img/tree3.png)
 
 ## 5일차
 - 파이썬 자료구조/알고리즘
     - 그래프
+    ![graph](https://raw.githubusercontent.com/ljunghwan0928/DS-and-Algorium-2024/main/images/graph2.png)
    
 
 ## 6일차
