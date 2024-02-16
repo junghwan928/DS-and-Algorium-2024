@@ -54,7 +54,7 @@ front = rear = 0
 
 if __name__ == '__main__':  # 메인 시작
     while True:
-        select = input('삽입(e) / 추출(d) / 확인(p) / 종료(x)')
+        select = input('삽입(e) / 추출(d) / 확인(p) / 종료(x) > ')
 
         if select.lower() == 'e':
             data = input('입력 데이터 > ')
