@@ -24,13 +24,13 @@ def printNodes(start): # 클래스의 멤버 함수 x
         print(curr.data, end=' -> ') # end -> 로 해서 enter가 없음
     print() # enter추가
 
-dataArray = ['가현', '나현','다현', '라연', '마현']
+dataArray = ['다현', '정연', '쯔위', '사나', '지효']
 
 # 메인시작
 if __name__ == '__main__':
-    node = Node(dataArray[0]) # '가현' 이라는 데이터를 담은 노드 생성
-    head = node # 첫번째 값을 head 가 가리킴
-    memory.append(node) # 가짜 메모리에 집어 넣음
+    node = Node(dataArray[0]) # '다현' 데이터담은 노드 생성
+    head = node # 첫번째 값을 head가 가리킴
+    memory.append(node) # 가짜 메모리에 집어넣음
 
     for data in dataArray[1:]:
         prev = node
