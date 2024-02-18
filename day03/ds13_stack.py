@@ -2,10 +2,10 @@
 # file : ds13_stack.ipynb
 # desc : 스택 전체 구현
 
-# 스택 Full 확인 함수
-
 import webbrowser
 import time
+
+# 스택 Full 확인 함수
 
 def isStackFull():
     global SIZE, stack, top
