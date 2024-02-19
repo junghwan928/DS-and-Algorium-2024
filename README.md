@@ -44,7 +44,7 @@
         - 삽입정렬 = INSERTION SORT - 기준값 기준 앞 뒤로 보내는 정렬 = O(N^2)
         - 버블정렬 = BUBBLE SORT - 기준값 기준으로 제일 큰값으로 뒤로 정렬 = O(N^2)
         - 퀵정렬 = QUICK SORT - 기준값 기준으로 작은값, 큰값 그룹을 분리한뒤 다시 정렬 재귀 호출 = O(nlogn)
-    ![sorting](https://raw.githubusercontent.com/ljunghwan0928/DS-and-Algorium-2024/main/images/sorting.png)
+    ![sorting](https://raw.githubusercontent.com/ljunghwan0928/DS-and-Algorium-2024/main/images/sorting.jpg)
 
 
 ## 7일차
