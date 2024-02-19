@@ -6,6 +6,7 @@ def addNum(num):
         return 1
     
     return num + addNum(num-1) # 5 + addNum(4) + addNum(3) + addNum(2) + addNum(1)
+     # 5 + addNumber(4)[4 + addNumber(3)[3 + addNumber(2)[2 + addNumber(1)]]]
 
-sum = addNum(5) # 15
+sum = addNum(5) # 15(5+4+3+2+1)
 print(sum)
