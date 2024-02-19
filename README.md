@@ -36,14 +36,14 @@
     ![graph](https://raw.githubusercontent.com/ljunghwan0928/DS-and-Algorium-2024/main/images/graph2.png)
    
 
-## 6일차
+## 6일차 (2024.02.19)
 - 파이썬 자료구조 / 알고리즘
     - 재귀호출
     - 정렬
-    - 검색
+
+
 
 ## 7일차
 - 파이썬 자료구조 / 알고리즘
     - 검색
-
 - Coding Test
