@@ -1,7 +1,8 @@
-# file : ds27_fractalSier.py
+# file : ds27_Sierpinski.py
 # desc : 시에르핀스키 삼각형 그리기 
 
 from tkinter import * 
+import random
 
 ## 클래스 함수 선언
 def drawTriangle(x, y, size) : 
@@ -14,7 +15,6 @@ def drawTriangle(x, y, size) :
 
 ## 전역변수 선언 
 wSize = 1000
-radius = 400
 
 ## 메인코드부분
 window = Tk()
